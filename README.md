@@ -1,8 +1,6 @@
 ## Overview
 
-This repository was designed to help you with learning Webpack.
-
-It is a supplementary resource to the course "Webpack 4: From Beginner To Advanced".
+A reference Webpack configuration
 
 ## Clone This Repository
 
